@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Taimeng Fu"
 description              : &description "personal description"
